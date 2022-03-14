@@ -1,12 +1,23 @@
 # Calculator and Shop App
-##### Table of Contents  
-[Calculator]()     bootstrapped with Create React App
-<a name="Calculator"/>
-## About Calculator
-This is a realtime mathematical calculator designed and created using React App and NodeJs
+# Table of Contents  
+# Calculator
+### About Calculator
+This is a realtime mathematical calculator designed and created using React App 
+### To Start the Calculator App 
+Download and install the React App in Visual Studio code terminal window using the following command
+npx install create-react-app Calculator 
 
-[Shop App]()     programmed using Java
-<a name="Shop App"/>
-## Shop App
+Change the directory to Calculator and add the source code files in src directory 
+
+### Running the Calculator App
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+ 
+# Shop App
 
 
