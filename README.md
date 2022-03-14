@@ -2,12 +2,12 @@
 # Table of Contents  
 # Calculator
 ### About Calculator
-This is a realtime mathematical calculator designed and created using React App 
+This is a real-time mathematical calculator designed and created using React App 
 ### To Start the Calculator App 
-Download and install the React App in Visual Studio code terminal window using the following command
+Download and install the React App in the Visual Studio code terminal window using the following command
 npx install create-react-app Calculator 
 
-Change the directory to Calculator and add the source code files in src directory 
+Change the directory to Calculator and add the source code files in the src directory 
 
 ### Running the Calculator App
 npm start
@@ -25,6 +25,6 @@ This is a Java Application designed and created to manage the stocks of various 
 Product.java is the class file with different static methods to perform various operations and ShopApp is the main method file with a menu-driven interface 
 
 ### Running Shop App
-This application runs and used in the terminal window  
+This application runs and is used in the terminal window  
 
  
