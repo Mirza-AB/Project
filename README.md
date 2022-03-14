@@ -19,5 +19,12 @@ You will also see any lint errors in the console.
 
  
 # Shop App
+### About Shop App
+This is a Java Application designed and created to manage the stocks of various products in a store
+### To Start Shop App 
+Product.java is the class file with different static methods to perform various operations and ShopApp is the main method file with a menu-driven interface 
 
+### Running Shop App
+This application runs and used in the terminal window  
 
+ 
